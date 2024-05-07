@@ -5,7 +5,7 @@ About
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 [![Build Status](https://secure.travis-ci.org/timoh6/GenPhrase.png)](http://travis-ci.org/timoh6/GenPhrase)
 
-GenPhrase is a secure passphrase generator for PHP applications. GenPhrase is
+GenPhrase is a secure passphrase generator for PHP applications. GenPhrase iss
 based on passwdqc's pwqgen program. See http://www.openwall.com/passwdqc/
 
 GenPhrase can be used to generate secure and easy to memorize random
